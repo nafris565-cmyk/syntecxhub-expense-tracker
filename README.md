@@ -1,6 +1,6 @@
 # 💰 Expense Tracker - Syntecxhub Project 1
 
-🚀 Live Demo: https://syntechub-expense-tracker-tau.vercel.app
+🚀 Live Demo: https://syntecxhub-expense-tracker-tau.vercel.app/
 📂 GitHub: https://github.com/nafris565-cmyk/syntecxhub-expense-tracker
 
 ### ✨ Features
